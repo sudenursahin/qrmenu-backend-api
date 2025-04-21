@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\suden\\source\\repos\\QRMenu\\QRMenu\\wwwroot\\images\\categories\\2df0e20c-065d-4fd2-908a-85d99c973ed8.jpg",
+      "PackagePath": "staticwebassets\\images\\categories\\2df0e20c-065d-4fd2-908a-85d99c973ed8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\suden\\source\\repos\\QRMenu\\QRMenu\\wwwroot\\images\\categories\\67341172-ef04-40f9-a359-680c329f707e.jpg",
+      "PackagePath": "staticwebassets\\images\\categories\\67341172-ef04-40f9-a359-680c329f707e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\suden\\source\\repos\\QRMenu\\QRMenu\\wwwroot\\images\\menu-items\\81896134-c8f8-490e-8f3c-fa54d6be9f64.jpg",
+      "PackagePath": "staticwebassets\\images\\menu-items\\81896134-c8f8-490e-8f3c-fa54d6be9f64.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.QRMenu.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.QRMenu.props",
+      "PackagePath": "build\\QRMenu.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.QRMenu.props",
+      "PackagePath": "buildMultiTargeting\\QRMenu.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.QRMenu.props",
+      "PackagePath": "buildTransitive\\QRMenu.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

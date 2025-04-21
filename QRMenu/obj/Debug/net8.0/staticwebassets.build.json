@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "EcYbjwKL94dXf5d0tGHBuMAQiFe+entD4l9QXm3NaBI=",
+  "Source": "QRMenu",
+  "BasePath": "_content/QRMenu",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "QRMenu\\wwwroot",
+      "Source": "QRMenu",
+      "ContentRoot": "C:\\Users\\suden\\source\\repos\\QRMenu\\QRMenu\\wwwroot\\",
+      "BasePath": "_content/QRMenu",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\suden\\source\\repos\\QRMenu\\QRMenu\\wwwroot\\images\\categories\\2df0e20c-065d-4fd2-908a-85d99c973ed8.jpg",
+      "SourceId": "QRMenu",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\suden\\source\\repos\\QRMenu\\QRMenu\\wwwroot\\",
+      "BasePath": "_content/QRMenu",
+      "RelativePath": "images/categories/2df0e20c-065d-4fd2-908a-85d99c973ed8.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\categories\\2df0e20c-065d-4fd2-908a-85d99c973ed8.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\suden\\source\\repos\\QRMenu\\QRMenu\\wwwroot\\images\\categories\\67341172-ef04-40f9-a359-680c329f707e.jpg",
+      "SourceId": "QRMenu",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\suden\\source\\repos\\QRMenu\\QRMenu\\wwwroot\\",
+      "BasePath": "_content/QRMenu",
+      "RelativePath": "images/categories/67341172-ef04-40f9-a359-680c329f707e.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\categories\\67341172-ef04-40f9-a359-680c329f707e.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\suden\\source\\repos\\QRMenu\\QRMenu\\wwwroot\\images\\menu-items\\81896134-c8f8-490e-8f3c-fa54d6be9f64.jpg",
+      "SourceId": "QRMenu",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\suden\\source\\repos\\QRMenu\\QRMenu\\wwwroot\\",
+      "BasePath": "_content/QRMenu",
+      "RelativePath": "images/menu-items/81896134-c8f8-490e-8f3c-fa54d6be9f64.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\menu-items\\81896134-c8f8-490e-8f3c-fa54d6be9f64.jpg"
+    }
+  ]
+}

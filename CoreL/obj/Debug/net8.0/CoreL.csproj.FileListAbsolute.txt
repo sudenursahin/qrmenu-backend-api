@@ -1,0 +1,12 @@
+C:\Users\suden\source\repos\QRMenu\CoreL\bin\Debug\net8.0\CoreL.deps.json
+C:\Users\suden\source\repos\QRMenu\CoreL\bin\Debug\net8.0\CoreL.dll
+C:\Users\suden\source\repos\QRMenu\CoreL\bin\Debug\net8.0\CoreL.pdb
+C:\Users\suden\source\repos\QRMenu\CoreL\obj\Debug\net8.0\CoreL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suden\source\repos\QRMenu\CoreL\obj\Debug\net8.0\CoreL.AssemblyInfoInputs.cache
+C:\Users\suden\source\repos\QRMenu\CoreL\obj\Debug\net8.0\CoreL.AssemblyInfo.cs
+C:\Users\suden\source\repos\QRMenu\CoreL\obj\Debug\net8.0\CoreL.csproj.CoreCompileInputs.cache
+C:\Users\suden\source\repos\QRMenu\CoreL\obj\Debug\net8.0\CoreL.dll
+C:\Users\suden\source\repos\QRMenu\CoreL\obj\Debug\net8.0\refint\CoreL.dll
+C:\Users\suden\source\repos\QRMenu\CoreL\obj\Debug\net8.0\CoreL.pdb
+C:\Users\suden\source\repos\QRMenu\CoreL\obj\Debug\net8.0\ref\CoreL.dll
+C:\Users\suden\source\repos\QRMenu\CoreL\obj\Debug\net8.0\CoreL.csproj.AssemblyReference.cache
